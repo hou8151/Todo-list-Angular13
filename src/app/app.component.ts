@@ -26,3 +26,6 @@ export class AppComponent {
 // 3) git  add . (git[espace]add[espace]point)
 // 4) git commit -m 'label' (label : ach 5damt exactement)
 // 5) git push origin master (esm el branche)
+// ----------------------------------------
+// *) pour cree new branch : git checkout -b 'fix-appCompoent-content-width'
+// *) git branch : afficher la liste des branches.
