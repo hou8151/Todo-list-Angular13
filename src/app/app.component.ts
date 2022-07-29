@@ -1,10 +1,21 @@
 import { Component } from '@angular/core';
 
+
+
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
+
   styleUrls: ['./app.component.scss']
 })
+
 export class AppComponent {
-  title = 'todolist';
+  title = 'My To Do List APP'
 }
+
+
+// eventEmitter ==> eventEmitter
+// localStorage
+// ngClass
+// github 
